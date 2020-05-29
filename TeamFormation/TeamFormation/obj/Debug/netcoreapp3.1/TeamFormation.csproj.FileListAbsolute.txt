@@ -1,0 +1,13 @@
+C:\Navya\TeamFormation\TeamFormation\bin\Debug\netcoreapp3.1\TeamFormation.exe
+C:\Navya\TeamFormation\TeamFormation\bin\Debug\netcoreapp3.1\TeamFormation.deps.json
+C:\Navya\TeamFormation\TeamFormation\bin\Debug\netcoreapp3.1\TeamFormation.runtimeconfig.json
+C:\Navya\TeamFormation\TeamFormation\bin\Debug\netcoreapp3.1\TeamFormation.runtimeconfig.dev.json
+C:\Navya\TeamFormation\TeamFormation\bin\Debug\netcoreapp3.1\TeamFormation.dll
+C:\Navya\TeamFormation\TeamFormation\bin\Debug\netcoreapp3.1\TeamFormation.pdb
+C:\Navya\TeamFormation\TeamFormation\obj\Debug\netcoreapp3.1\TeamFormation.csproj.CoreCompileInputs.cache
+C:\Navya\TeamFormation\TeamFormation\obj\Debug\netcoreapp3.1\TeamFormation.AssemblyInfoInputs.cache
+C:\Navya\TeamFormation\TeamFormation\obj\Debug\netcoreapp3.1\TeamFormation.AssemblyInfo.cs
+C:\Navya\TeamFormation\TeamFormation\obj\Debug\netcoreapp3.1\TeamFormation.dll
+C:\Navya\TeamFormation\TeamFormation\obj\Debug\netcoreapp3.1\TeamFormation.pdb
+C:\Navya\TeamFormation\TeamFormation\obj\Debug\netcoreapp3.1\TeamFormation.genruntimeconfig.cache
+C:\Navya\TeamFormation\TeamFormation\obj\Debug\netcoreapp3.1\TeamFormation.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Navya\FilesNoofHosts\FilesNoofHosts\bin\Debug\netcoreapp3.1\FilesNoofHosts.exe
+C:\Navya\FilesNoofHosts\FilesNoofHosts\bin\Debug\netcoreapp3.1\FilesNoofHosts.deps.json
+C:\Navya\FilesNoofHosts\FilesNoofHosts\bin\Debug\netcoreapp3.1\FilesNoofHosts.runtimeconfig.json
+C:\Navya\FilesNoofHosts\FilesNoofHosts\bin\Debug\netcoreapp3.1\FilesNoofHosts.runtimeconfig.dev.json
+C:\Navya\FilesNoofHosts\FilesNoofHosts\bin\Debug\netcoreapp3.1\FilesNoofHosts.dll
+C:\Navya\FilesNoofHosts\FilesNoofHosts\bin\Debug\netcoreapp3.1\FilesNoofHosts.pdb
+C:\Navya\FilesNoofHosts\FilesNoofHosts\obj\Debug\netcoreapp3.1\FilesNoofHosts.csproj.CoreCompileInputs.cache
+C:\Navya\FilesNoofHosts\FilesNoofHosts\obj\Debug\netcoreapp3.1\FilesNoofHosts.AssemblyInfoInputs.cache
+C:\Navya\FilesNoofHosts\FilesNoofHosts\obj\Debug\netcoreapp3.1\FilesNoofHosts.AssemblyInfo.cs
+C:\Navya\FilesNoofHosts\FilesNoofHosts\obj\Debug\netcoreapp3.1\FilesNoofHosts.dll
+C:\Navya\FilesNoofHosts\FilesNoofHosts\obj\Debug\netcoreapp3.1\FilesNoofHosts.pdb
+C:\Navya\FilesNoofHosts\FilesNoofHosts\obj\Debug\netcoreapp3.1\FilesNoofHosts.genruntimeconfig.cache
+C:\Navya\FilesNoofHosts\FilesNoofHosts\obj\Debug\netcoreapp3.1\FilesNoofHosts.csprojAssemblyReference.cache

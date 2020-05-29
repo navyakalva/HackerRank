@@ -1,0 +1,1 @@
+ID1,chennai,shoes,2,BataID2,Mumbai,shoes,4,AdidasID3,Pune,shoes,3,PumaID4,Hyderabad,Bags,4,HiDesignID5,Chennai,Bags,2,ClarkeID6,Pune,Bags,6,HushpuppiesID7,Hyderabad,Wallet,2,CLC

@@ -1,0 +1,13 @@
+C:\Navya\HackerRank\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.exe
+C:\Navya\HackerRank\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.deps.json
+C:\Navya\HackerRank\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.runtimeconfig.json
+C:\Navya\HackerRank\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.runtimeconfig.dev.json
+C:\Navya\HackerRank\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.dll
+C:\Navya\HackerRank\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.pdb
+C:\Navya\HackerRank\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.csprojAssemblyReference.cache
+C:\Navya\HackerRank\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.csproj.CoreCompileInputs.cache
+C:\Navya\HackerRank\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.AssemblyInfoInputs.cache
+C:\Navya\HackerRank\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.AssemblyInfo.cs
+C:\Navya\HackerRank\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.dll
+C:\Navya\HackerRank\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.pdb
+C:\Navya\HackerRank\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.genruntimeconfig.cache

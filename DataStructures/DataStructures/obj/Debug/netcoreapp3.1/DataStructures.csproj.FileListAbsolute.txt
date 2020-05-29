@@ -1,0 +1,13 @@
+C:\Navya\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.csprojAssemblyReference.cache
+C:\Navya\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.csproj.CoreCompileInputs.cache
+C:\Navya\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfoInputs.cache
+C:\Navya\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfo.cs
+C:\Navya\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.exe
+C:\Navya\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.deps.json
+C:\Navya\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.runtimeconfig.json
+C:\Navya\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.runtimeconfig.dev.json
+C:\Navya\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.dll
+C:\Navya\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.pdb
+C:\Navya\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.dll
+C:\Navya\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.pdb
+C:\Navya\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Navya\dynamicprogramming\dynamicprogramming\bin\Debug\netcoreapp3.1\dynamicprogramming.exe
+C:\Navya\dynamicprogramming\dynamicprogramming\bin\Debug\netcoreapp3.1\dynamicprogramming.deps.json
+C:\Navya\dynamicprogramming\dynamicprogramming\bin\Debug\netcoreapp3.1\dynamicprogramming.runtimeconfig.json
+C:\Navya\dynamicprogramming\dynamicprogramming\bin\Debug\netcoreapp3.1\dynamicprogramming.runtimeconfig.dev.json
+C:\Navya\dynamicprogramming\dynamicprogramming\bin\Debug\netcoreapp3.1\dynamicprogramming.dll
+C:\Navya\dynamicprogramming\dynamicprogramming\bin\Debug\netcoreapp3.1\dynamicprogramming.pdb
+C:\Navya\dynamicprogramming\dynamicprogramming\obj\Debug\netcoreapp3.1\dynamicprogramming.csprojAssemblyReference.cache
+C:\Navya\dynamicprogramming\dynamicprogramming\obj\Debug\netcoreapp3.1\dynamicprogramming.csproj.CoreCompileInputs.cache
+C:\Navya\dynamicprogramming\dynamicprogramming\obj\Debug\netcoreapp3.1\dynamicprogramming.AssemblyInfoInputs.cache
+C:\Navya\dynamicprogramming\dynamicprogramming\obj\Debug\netcoreapp3.1\dynamicprogramming.AssemblyInfo.cs
+C:\Navya\dynamicprogramming\dynamicprogramming\obj\Debug\netcoreapp3.1\dynamicprogramming.dll
+C:\Navya\dynamicprogramming\dynamicprogramming\obj\Debug\netcoreapp3.1\dynamicprogramming.pdb
+C:\Navya\dynamicprogramming\dynamicprogramming\obj\Debug\netcoreapp3.1\dynamicprogramming.genruntimeconfig.cache
